@@ -476,8 +476,8 @@ Output:
 
 ## Authors :black_nib:
 
-* Oghenekparobo Onosemuode <[Jaytru1997](https://github.com/Jaytru1997)>
-* Ukonu Divine Chisom <[divine-chisom](https://github.com/divine-chisom)>
+* Musa Dauda <[Musa Dauda](https://github.com/MusaDauda)>
+* Azeezat Musa <[Hayzedzee](https://github.com/hayzedzee)>
 
 ## Acknowledgements :pray:
 
